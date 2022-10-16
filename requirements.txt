@@ -47,7 +47,7 @@ pathspec==0.10.1; python_version >= '3.7'
 platformdirs==2.5.2; python_version >= '3.7'
 prometheus-client==0.14.1; python_version >= '3.6'
 prompt-toolkit==3.0.31; python_full_version >= '3.6.2'
-psycopg2==2.9.3
+psycopg2-binary==2.9.3
 pycparser==2.21
 pyjwt==2.5.0; python_version >= '3.7'
 pyparsing==3.0.9; python_full_version >= '3.6.8'
